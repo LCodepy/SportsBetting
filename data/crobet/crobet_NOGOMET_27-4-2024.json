@@ -1,0 +1,3885 @@
+{
+  "Engleska 1.liga ": {
+    "West Ham-Liverpool": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 4.0,
+        "2": 1.2
+      },
+      "Oba daju gol": {
+        "da": 1.5,
+        "ne": 2.4
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.75,
+        "ne": 2.0
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.4,
+        "ne": 2.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.4,
+        "ne": 1.2
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Wolverhampton-Luton Town": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.45,
+        "2": 2.6
+      },
+      "Oba daju gol": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.0,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.0,
+        "ne": 1.15
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Newcastle-Sheffield U.": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.05,
+        "2": 8.5
+      },
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.0,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.25,
+        "ne": 3.4
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Fulham-Crystal Palace": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.45,
+        "2": 2.6
+      },
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 2.1
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.65
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.15
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Manchester Utd.-Burnley": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.17,
+        "2": 4.4
+      },
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.75,
+        "ne": 2.0
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.4,
+        "ne": 2.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Everton-Brentford": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.75,
+        "2": 2.0
+      },
+      "Oba daju gol": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.65
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.2,
+        "ne": 1.15
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Aston Villa-Chelsea": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.65,
+        "2": 2.1
+      },
+      "Oba daju gol": {
+        "da": 1.4,
+        "ne": 2.6
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.7,
+        "ne": 2.0
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.5
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.4,
+        "ne": 1.2
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    }
+  },
+  "Francuska 1.liga ": {
+    "PSG-Le Havre": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.1,
+        "2": 6.0
+      },
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.4
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.12
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    }
+  },
+  "Hrvatska 1.liga ": {
+    "Vara\u017edin-Dinamo Zagreb": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 6.0,
+        "2": 1.1
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Hajduk Split-Rude\u0161": {
+      "Oba daju gol": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.3,
+        "ne": 3.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 6.5,
+        "ne": 1.05
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    }
+  },
+  "Hrvatska 2.liga ": {
+    "Orijent-C.Zmijavci": {
+      "Oba daju gol": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.3,
+        "ne": 3.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 6.5,
+        "ne": 1.05
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Solin-Zrinski Jurjevac": {
+      "Oba daju gol": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.3,
+        "ne": 3.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 6.5,
+        "ne": 1.05
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "BSK Bijelo Brdo-Cibalia": {
+      "Oba daju gol": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.3,
+        "ne": 3.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 6.5,
+        "ne": 1.05
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    }
+  },
+  "Njema\u010dka 1.liga ": {
+    "Leipzig RB-Borussia D.": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.3,
+        "2": 3.4
+      },
+      "Oba daju gol": {
+        "da": 1.45,
+        "ne": 2.6
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.4,
+        "ne": 2.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.4,
+        "ne": 1.25
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Bayern-Eintracht F.": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.12,
+        "2": 5.0
+      },
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.75,
+        "ne": 2.0
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.35,
+        "ne": 3.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.4,
+        "ne": 1.2
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Freiburg-Wolfsburg": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.65,
+        "2": 2.1
+      },
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.12
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Augsburg-Werder": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.35,
+        "2": 3.0
+      },
+      "Oba daju gol": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.9,
+        "ne": 1.8
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.0,
+        "ne": 1.17
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Bayer L.-Stuttgart": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.25,
+        "2": 3.4
+      },
+      "Oba daju gol": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.0,
+        "ne": 1.15
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    }
+  },
+  "\u0160panjolska 1.liga ": {
+    "Barcelona-Valencia": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.1,
+        "2": 5.5
+      },
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "UD Las Palmas-Girona": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 3.0,
+        "2": 1.3
+      },
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.65
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.2,
+        "ne": 1.15
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Almeria-Getafe": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.85,
+        "2": 1.85
+      },
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Alaves-Celta Vigo": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.8,
+        "2": 1.9
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 2.0,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Atletico Madrid-Athletic Bilbao": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.4,
+        "2": 2.7
+      },
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    }
+  },
+  "Talijanska 1.liga ": {
+    "Lecce-Monza": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.45,
+        "2": 2.6
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Juventus-Milan": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.4,
+        "2": 2.7
+      },
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Lazio-Verona": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    }
+  },
+  "Argentinska 2.liga ": {
+    "Tristan Suarez-Estudiantes De Caseros CA": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Almagro-Almirante Brown": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Patronato Parana-Talleres Escalada": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Guillermo Brown-Arsenal Sarandi": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Nueva Chicago-Atletico Mitre": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Agropecuario Argentino-San Martin T.": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    },
+    "Defensores Belgrano-Atlanta CA": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 4.0
+      },
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.7,
+        "ne": 1.4
+      }
+    }
+  },
+  "Australska 1.liga ": {
+    "Wellington P.-Macarthur FC": {
+      "Oba daju gol": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    },
+    "Newcastle J.-CC Mariners": {
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    },
+    "Melbourne Victory-Western Sydney Wanderers": {
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    },
+    "Sydney FC-Perth Glory": {
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    }
+  },
+  "Austrijska 1.liga - LIGA ZA OSTANAK": {
+    "Wolfsberger AC-BW Linz": {},
+    "WSG Wattens-Austria Lustenau": {}
+  },
+  "Austrijska 2.liga ": {
+    "FAC Be\u010d-First Vienna": {},
+    "Admira-Liefering": {},
+    "Sturm Graz II-Dornbirn": {},
+    "Bregenz-GAK": {}
+  },
+  "Belgijska 1.liga - DOIGRAVANJE ZA KONFERENCIJSKU LIGU ": {
+    "Mechelen-Oud Heverlee": {
+      "Oba daju gol": {
+        "da": 1.6,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.15
+      }
+    },
+    "Standard L.-Sint Truidense": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.1
+      }
+    },
+    "Gent-Westerlo": {
+      "Oba daju gol": {
+        "da": 1.6,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    }
+  },
+  "Brazilska 1.liga ": {
+    "Vasco da Gama-Criciuma": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Cuiaba EC-Atletico MG": {
+      "Oba daju gol": {
+        "da": 2.0,
+        "ne": 1.6
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.9,
+        "ne": 1.3
+      },
+      "Gol u oba poluvremena": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 6.0,
+        "ne": 1.05
+      }
+    },
+    "Bahia-Gremio P.A.": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    }
+  },
+  "Brazilska 2.liga ": {
+    "CRB-Amazonas FC": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "America MG-Novorizontino": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    }
+  },
+  "\u010cileanska 1.liga": {
+    "Copiapo-CDU Catolica": {},
+    "Nublense-Cobreloa": {}
+  },
+  "Engleska 2.liga ": {
+    "Watford-Sunderland": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Huddersfield-Birmingham": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Southampton-Stoke": {
+      "Oba daju gol": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.45,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    },
+    "Millwall-Plymouth": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Cardiff-Middlesbrough": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Norwich C.-Swansea": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.15
+      }
+    },
+    "Sheffield W.-WBA": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Bristol C.-Rotherham": {
+      "Oba daju gol": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Blackburn-Coventry": {
+      "Oba daju gol": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    },
+    "Hull City-Ipswich": {
+      "Oba daju gol": {
+        "da": 1.6,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.15
+      }
+    }
+  },
+  "Engleska 3.liga ": {
+    "Stevenage-Cheltenham": {},
+    "Exeter-Oxford Utd.": {},
+    "Derby County-Carlisle": {},
+    "Barnsley-Northampton": {},
+    "Peterborough-Bolton": {},
+    "Shrewsbury-Leyton O.": {},
+    "Reading-Blackpool": {},
+    "Wycombe-Charlton": {},
+    "Lincoln City-Portsmouth": {},
+    "Wigan-Bristol R.": {},
+    "Fleetwood T.-Burton": {}
+  },
+  "Engleska 4.liga ": {
+    "Colchester-Crewe": {},
+    "Barrow-Mansfield": {},
+    "Bradford C.-Newport C.": {},
+    "Accrington-Tranmere": {},
+    "Forest Green-Notts County": {},
+    "Crawley Town-Grimsby": {},
+    "Swindon Town-Morecambe": {},
+    "Salford C.-Harrogate T.": {},
+    "Wrexham-Stockport": {},
+    "Gillingham-Doncaster": {},
+    "Milton Keynes-Sutton U.": {},
+    "AFC Wimbledon-Walsall": {}
+  },
+  "Finska 1.liga": {
+    "Haka V.-HJK Helsinki": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.12
+      }
+    },
+    "Lahti FC-KuPS Kuopio": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "AC Oulu-Vaasa VPS": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.12
+      }
+    }
+  },
+  "Francuska 2.liga ": {
+    "St.Etienne-Caen": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.1
+      }
+    },
+    "Ajaccio-Quevilly": {
+      "Oba daju gol": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "Oba daju gol i 3+": {
+        "da": 3.0,
+        "ne": 1.25
+      },
+      "Gol u oba poluvremena": {
+        "da": 2.1,
+        "ne": 1.55
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 6.5,
+        "ne": 1.05
+      }
+    },
+    "Amiens SC-Troyes": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Laval-Bordeaux": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Paris FC-Angers": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.1
+      }
+    },
+    "Valenciennes-Grenoble": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Pau-Guingamp": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Concarneau-Rodez Aveyron": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Annecy-Bastia SC": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "Gr\u010dka 1.liga - LIGA ZA OSTANAK": {
+    "Panaitolikos-Atromitos": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Asteras T.-OFI Kreta": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "AE Kifisia-PAS Giannina": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Volos NFC-Panserraikos": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Hrvatska 1.liga - POBJEDNIK": {
+    "Dinamo Zagreb": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Rijeka": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Irska 2.liga ": {
+    "Longford T.-Wexford": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Izraelska 1.liga - LIGA ZA OSTANAK ": {
+    "Hapoel Katamon Jerusalem FC-Hapoel Hadera": {},
+    "Maccabi Petah Tikva-Maccabi Netanya": {},
+    "Ashdod-Hapoel Petah Tikva": {},
+    "Hapoel Tel Aviv-Beitar Jerusalem": {}
+  },
+  "Japanska 1.liga ": {
+    "Cerezo Osaka-Yokohama FM": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.12
+      }
+    },
+    "Hiroshima-Kawasaki F.": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Tokyo Verdy-Avispa Fukuoka": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "Japanska 2.liga ": {
+    "Fagiano Okayama-Shimizu": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Roasso Kumamoto-Oita Trinita": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Blaublitz Akita-Yokohama FC": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Kagoshima-Renofa Y.": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Tochigi SC-Iwaki SC": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Tokushima V.-Montedio Y.": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "Ju\u017enokorejska 1.liga ": {
+    "Pohang-Incheon United": {},
+    "Jeonbuk-Daegu": {}
+  },
+  "Kineska 1.liga ": {
+    "Shanghai Port-Shanghai Shenhua": {}
+  },
+  "Liga prvaka (\u017d) - ZAVR\u0160NICA ": {
+    "Chelsea LFC-Barcelona": {}
+  },
+  "Litvanska 1.liga ": {
+    "Dziugas-Transinvest": {}
+  },
+  "Ma\u0111arska 1.liga ": {
+    "Paksi-Mezokovesd": {},
+    "Diosgyor-Kecskemeti": {},
+    "Debrecen-Ujpest": {}
+  },
+  "Meksi\u010dka 1.liga - CLAUSURA ": {
+    "Juarez-Leon": {},
+    "Toluca-Cruz Azul": {},
+    "UANL Tigres-Tijuana": {},
+    "Pachuca-Mazatlan": {},
+    "Atlas G.-Guadalajara C.": {}
+  },
+  "MLS ": {
+    "Austin FC-Los Angeles Galaxy": {
+      "Oba daju gol": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.6,
+        "ne": 1.2
+      }
+    },
+    "New York RB-Vancouver W.": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Orlando City-Toronto FC": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Philadelphia-Salt Lake": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.12
+      }
+    },
+    "Cincinnati-Colorado Rapids": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.1
+      }
+    },
+    "Columbus-Montreal I.": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.0,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.2,
+        "ne": 1.15
+      }
+    },
+    "DC United-Seattle S.": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.4,
+        "ne": 1.12
+      }
+    },
+    "New England-Inter Miami": {
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.0,
+        "ne": 1.15
+      }
+    },
+    "New York City-Charlotte FC": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Dallas-Houston D.": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Chicago-Atlanta Utd.": {
+      "Oba daju gol": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    },
+    "Minnesota United-Kansas City": {
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.1
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.2,
+        "ne": 1.15
+      }
+    },
+    "Nashville-San Jose": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.12
+      }
+    },
+    "Los Angeles FC-Portland T.": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.45,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.2,
+        "ne": 1.15
+      }
+    }
+  },
+  "Njema\u010dka 2.liga ": {
+    "Paderborn-Elversberg": {
+      "Oba daju gol": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.6,
+        "ne": 1.2
+      }
+    },
+    "Holstein Kiel-Kaiserslautern": {
+      "Oba daju gol": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.6,
+        "ne": 1.2
+      }
+    },
+    "Eintracht Braunschweig-HSV": {
+      "Oba daju gol": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    },
+    "Schalke 04-Fortuna Dusseldorf": {
+      "Oba daju gol": {
+        "da": 1.45,
+        "ne": 2.3
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      }
+    }
+  },
+  "Njema\u010dka 3.liga ": {
+    "Saarbrucken-Hallescher": {},
+    "Borussia D. II-Erzgebirge Aue": {},
+    "Duisburg MSV-Sandhausen": {},
+    "Viktoria Koln-Munster": {},
+    "Regensburg-Dynamo Dresden": {},
+    "Verl 1924-Waldhof M.": {}
+  },
+  "Norve\u0161ka 1.liga ": {
+    "Rosenborg-Bodo/Glimt": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.0,
+        "ne": 1.6
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.2,
+        "ne": 1.15
+      }
+    }
+  },
+  "Norve\u0161ka 2.liga ": {
+    "Asane-Stabaek": {},
+    "Moss-Egersund": {},
+    "Aalesund-Raufoss": {},
+    "Sandnes Ulf-Levanger": {},
+    "Kongsvinger-Start": {},
+    "Bryne-Sogndal": {}
+  },
+  "Paragvajska 1.liga - APERTURA ": {
+    "Luqueno-Tacuary": {}
+  },
+  "Peruanska 1.liga - APERTURA ": {
+    "Sport Boys-Union Comercio": {},
+    "Universidad Tecnica-Atletico Grau": {},
+    "Cusco FC-Cienciano": {}
+  },
+  "Poljska 1.liga ": {
+    "Gornik Z.-Lodz LKS": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.12
+      }
+    },
+    "Slask Wroclaw-Ruch Chorzow": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Widzew L.-Rakow Czestochowa": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Poljska 2.liga ": {
+    "Tychy-Zaglebie S.": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Portugalska 1.liga ": {
+    "Vizela-Rio Ave": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.8,
+        "2": 1.8
+      },
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Casa Pia-Chaves": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.45,
+        "2": 2.4
+      },
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Benfica-Braga": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 3.6
+      },
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.1
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 3.8,
+        "ne": 1.17
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Guimaraes-Boavista": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 3.8
+      },
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    }
+  },
+  "Portugalska 2.liga ": {
+    "Mafra-Oliveirense": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 3.8
+      },
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Maritimo-Feirense": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 3.8
+      },
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    },
+    "Leixoes-Vilaverdense": {
+      "Utakmica bez nerije\u0161enog": {
+        "1": 1.2,
+        "2": 3.8
+      },
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "Kazneni udarac": {
+        "da": 2.9,
+        "ne": 1.35
+      }
+    }
+  },
+  "Rumunjska 1.liga - LIGA ZA OSTANAK ": {
+    "U Craiova 1948-Uni. Cluj": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Saudijska Arabija 1.liga ": {
+    "Al Akhdoud-Abha": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Al Raed SC-Al Ettifaq D": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Al Khaleej-Al Nassr": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Sjevernoirska 1.liga - LIGA ZA OSTANAK ": {
+    "Dungannon-Ballymena U.": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Newry City-Loughgall": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Glenavon-Carrick Rangers": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Slova\u010dka 1.liga - LIGA ZA OSTANAK ": {
+    "Skalica-Tren\u010din": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Ko\u0161ice-Z.Moravce": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Slovenska 1.liga ": {
+    "Bravo Publikum-Radomlje NK": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Dom\u017eale-Maribor": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Srpska 1.liga - LIGA ZA OSTANAK ": {
+    "Radnik Surdulica-Novi Pazar": {},
+    "Javor-IMT Novi Beograd": {},
+    "\u017deljezni\u010dar Pan\u010devo-Radni\u010dki Ni\u0161": {}
+  },
+  "\u0160kotska 1.liga - LIGA ZA OSTANAK ": {
+    "Aberdeen-Motherwell": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.1
+      }
+    },
+    "St.Johnstone-Hibernian": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Livingston-Ross County": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    }
+  },
+  "\u0160kotska 2.liga ": {
+    "Dunfermline-Inverness": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Morton-Raith Rovers": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Partick-Ayr United": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Arbroath-Queen's Park": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    }
+  },
+  "\u0160kotska 3.liga ": {
+    "Edinburgh FC-Stirling A.": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Annan Athletic-Falkirk": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Kelty Hearts-Montrose": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Queen of South-Cove Rangers": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Alloa-Hamilton": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    }
+  },
+  "\u0160kotska 4.liga ": {
+    "Dumbarton-Elgin City": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Clyde-East Fife": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Spartans-Peterhead": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Stenhousemuir-Bonnyrigg Rose Athletic": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Forfar-Stranraer": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.4,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    }
+  },
+  "\u0160panjolska 2.liga ": {
+    "Leganes-Real Zaragoza": {
+      "Oba daju gol": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Oba daju gol i 3+": {
+        "da": 3.4,
+        "ne": 1.25
+      },
+      "Gol u oba poluvremena": {
+        "da": 2.2,
+        "ne": 1.55
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 7.0,
+        "ne": 1.03
+      }
+    },
+    "Burgos-Amorebieta SD": {
+      "Oba daju gol": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Elche-Espanyol": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "\u0160vedska 2.liga ": {
+    "Sundsvall-Varbergs": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Gefle-Sandvikens": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Landskrona BOIS-Utsiktens": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Orgryte-Osters": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "\u0160vedska 3.liga jug ": {
+    "Onsala BK-Falkenbergs": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Torns IF-Tvaakers": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Ariana FC-Oskarshamns": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Olympic Malmo-Norrby": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Jonkopings Sodra-Rosengard": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "\u0160vedska 3.liga sjever ": {
+    "FBK Karlstad-Karlbergs": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Hammarby TFF-Friska Viljo": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Vasalunds IF-IF Karlstad": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "United IK Nordic-Stocksund": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "\u0160vicarska 2.liga ": {
+    "Wil 1900-Schaffhausen": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "\u0160vicarski kup ": {
+    "Sion-Lugano": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "Talijanska 2.liga ": {
+    "Ternana-Ascoli": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Parma-Lecco": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.1,
+        "ne": 1.55
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.12
+      }
+    },
+    "Modena-Sudtirol": {
+      "Oba daju gol": {
+        "da": 2.0,
+        "ne": 1.6
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.9,
+        "ne": 1.3
+      },
+      "Gol u oba poluvremena": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 6.0,
+        "ne": 1.05
+      }
+    },
+    "Brescia-Spezia": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Sampdoria-Como": {
+      "Oba daju gol": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Cosenza-Bari": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Cittadella-FeralpiSalo": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Palermo-Reggiana": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    }
+  },
+  "Turska 1.liga ": {
+    "Sivasspor-Konyaspor": {
+      "Oba daju gol": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Kasimpasa-Samsunspor": {
+      "Oba daju gol": {
+        "da": 1.55,
+        "ne": 2.1
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.0,
+        "ne": 1.15
+      }
+    },
+    "Fenerbahce-Besiktas": {
+      "Oba daju gol": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "Oba daju gol i 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.0,
+        "ne": 1.15
+      }
+    },
+    "Hatayspor-Basaksehir": {
+      "Oba daju gol": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.6,
+        "ne": 1.12
+      }
+    }
+  },
+  "Ukrajinska 1.liga ": {
+    "Minaj-Chernomorets Odesa": {
+      "Oba daju gol": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 4.8,
+        "ne": 1.1
+      }
+    },
+    "Dnipro-1-Dinamo Kijev": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "LNZ Cherkasy-Shakhtar Donetsk": {
+      "Oba daju gol": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.0,
+        "ne": 1.1
+      }
+    },
+    "Rukh Lviv-Veres": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "Urugvajska 1.liga - APERTURA ": {
+    "Rampla Juniors-Dep.Maldonado": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Cerro Largo-Boston River": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  },
+  "USL ": {
+    "Charleston-Las Vegas": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Pittsburgh-Detroit City": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Miami FC-San Antonio": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Indy Eleven-North Carolina": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Tampa Bay-New Mexico": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Louisville-Hartford": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Birmingham Legion-Memphis": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "El Paso Locomotive-Tulsa": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Oakland Roots-Colorado Springs": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Sacramento-Loudoun United": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    },
+    "Orange County-Monterey Bay": {
+      "Oba daju gol": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "Oba daju gol i 3+": {
+        "da": 2.6,
+        "ne": 1.35
+      },
+      "Gol u oba poluvremena": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "Oba daju gol u 1.pol.": {
+        "da": 5.5,
+        "ne": 1.07
+      }
+    }
+  }
+}

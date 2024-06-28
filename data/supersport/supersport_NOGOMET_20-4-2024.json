@@ -1,0 +1,6531 @@
+{
+  "HRVATSKA 1.": {
+    "NK Osijek\n- Istra 1961 Pula": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 3.5,
+        "22": 20.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.2,
+        "ne": 3.6
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.15,
+        "2": 4.1
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.3,
+        "2": 2.9
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.3,
+        "vi\u0161e": 3.2
+      },
+      "ZBROJ KORNERA": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Slaven Belupo\n- Hajduk Split": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 17.0,
+        "22": 4.2
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.2,
+        "ne": 3.6
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 4.1,
+        "2": 1.15
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 2.7,
+        "2": 1.35
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.4,
+        "vi\u0161e": 2.7
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "AFRI\u010cKA LIGA PRVAKA": {
+    "TP Mazembe\n- Al Ahly Cairo": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    },
+    "Esp\u00e9rance Tunis\n- M.Sundowns FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    }
+  },
+  "AL\u017dIR 1.": {
+    "Paradou AC\n- MC El Bayadh": {
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    }
+  },
+  "ARGENTINA 2.": {
+    "Dep.Madryn\n- CA Chaco F.E.": {},
+    "CA Atlanta\n- Almagro B.A.": {},
+    "CA Estudiantes BA\n- CA All Boys": {},
+    "CA Def.Unidos\n- Defens.Belgrano": {},
+    "Colon SF\n- CA Temperley": {}
+  },
+  "AUSTRALIJA 1.": {
+    "W.Sydney Wander.\n- Melbour.City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "Melb.Victory\n- Brisbane Roar": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Macarthur FC\n- Sydney FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.35,
+        "ne": 3.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 3.0,
+        "vi\u0161e": 1.35
+      }
+    }
+  },
+  "AUSTRIJA 1.": {
+    "SCR Altach\n- BW Linz": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.65,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "Austria Be\u010d\n- WSG Tirol": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Wolfsberger AC\n- SC A.Lustenau": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    }
+  },
+  "AUSTRIJA 2.": {
+    "SV Stripfing W.\n- FC Dornbirn": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    }
+  },
+  "BELGIJA 1.": {
+    "OH Leuven\n- St.Truidense VV": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "KVC Westerlo\n- Standard Li\u00e8ge": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "KAA Gent\n- KV Mechelen": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "KRC Genk\n- RSC Anderlecht": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    }
+  },
+  "BELGIJA 2.": {
+    "RSCA Futures\n- Club NXT": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    }
+  },
+  "BJELORUSIJA 1.": {
+    "FK Minsk\n- Naftan Novopol.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Arsenal Dzerz.\n- Shak.Soligorsk": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Slavia Mozyr\n- Dinamo Brest": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    }
+  },
+  "BRAZIL 1.": {
+    "Fluminense FC\n- Vasco da Gama RJ": {},
+    "RB Bragantino\n- Corinthians SP": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "Gr\u00eamio FBPA\n- Cuiab\u00e1 EC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Atl.Mineiro\n- Cruzeiro EC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.65,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    }
+  },
+  "BRAZIL 2.": {
+    "ChapecoenseSC\n- Ituano SP": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    },
+    "Santos FC\n- Paysandu SC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Amazonas AM\n- Sp.Recife PE": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.65,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    },
+    "Cear\u00e1 CE\n- Goi\u00e1s EC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    }
+  },
+  "BUGARSKA 1.": {
+    "Pirin Blagoev.\n- Cherno More V.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.65,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Hebar Pazardzhik\n- Ludog.Razgrad": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.35,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "Levski Sofija\n- Beroe Stara Z.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.75,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    }
+  },
+  "CIPAR 1.": {
+    "AEZ Zakakiou\n- Karmiotissa Polem.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 3.5,
+        "vi\u0161e": 1.25
+      }
+    },
+    "Apollon Limas.\n- AEL Limassol": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "\u010cE\u0160KA 1.": {
+    "Sparta Prag\n- Ban\u00edk Ostrava": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "MFK Karvina\n- Bohemians 1905": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "FK Jablonec\n- FC Zl\u00edn": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "FK Teplice\n- Dyn.\u010c.Bud\u011bjovice": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    }
+  },
+  "\u010cE\u0160KA 2.": {
+    "MFK Vy\u0161kov\n- Zbrojovka Brno": {},
+    "SK L\u00ed\u0161e\u0148\n- S.Olomouc B": {},
+    "Viagem P\u0159\u00edbram\n- FC T\u00e1borsko": {}
+  },
+  "\u010cILE 1.": {
+    "Cobresal\n- \u00d1ublense": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "U.Cat\u00f3lica Sant.\n- Colo Colo": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Coquimbo Unido\n- O'Higgins Ranc.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    }
+  },
+  "DANSKA 2.": {
+    "Hobro IK\n- FC Fredericia": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "DANSKA 3.": {
+    "Aarhus Fremad\n- Nyk\u00f8bing FC": {
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Hellerup IK\n- Thisted FC": {
+      "OBA DAJU GOL": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "Skive IK\n- Brabrand IF": {
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    }
+  },
+  "ENGLESKA 1.": {
+    "Luton Town\n- Brentford": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 8.8,
+        "22": 7.5
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.1,
+        "ne": 5.0
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 2.2,
+        "2": 1.55
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 2.1,
+        "2": 1.6
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Sheffield Utd\n- Burnley": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 8.4,
+        "22": 8.1
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.15,
+        "ne": 4.1
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 2.0,
+        "2": 1.65
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.2,
+        "ne": 1.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 2.0,
+        "2": 1.65
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Wolverhampton\n- Arsenal": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 35.0,
+        "22": 2.4
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.1,
+        "ne": 5.0
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 5.3,
+        "2": 1.08
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 3.6,
+        "2": 1.2
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "ENGLESKA 2.": {
+    "Leicester\n- West Bromwich": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Cardiff\n- Southampton": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Huddersfield\n- Swansea": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Norwich\n- Bristol City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Rotherham\n- Birmingham": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Stoke City\n- Plymouth": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Sunderland\n- Millwall": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Watford\n- Hull City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Q.P.Rangers\n- Preston": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    }
+  },
+  "ENGLESKA 3.": {
+    "Northampton\n- Exeter City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Blackpool\n- Barnsley": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Bolton\n- Port Vale": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Bristol Rovers\n- Peterborough": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Burton Albion\n- Reading": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Cambridge Utd\n- Derby County": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Carlisle Utd\n- Wycombe": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Charlton\n- Shrewsbury": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Cheltenham Town\n- Lincoln City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Leyton Orient\n- Fleetwood Town": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Portsmouth\n- Wigan": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "ENGLESKA 4.": {
+    "Crewe Alex.\n- Wrexham FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Doncaster\n- Barrow AFC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Grimsby Town\n- Swindon Town": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "Harrogate Town\n- MK Dons": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Mansfield Town\n- Gillingham": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Morecambe\n- Forest Green Rov.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Newport County\n- Salford City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Notts County\n- Colchester Utd": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.35,
+        "ne": 2.7
+      },
+      "OBA DAJU GOL": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.5,
+        "vi\u0161e": 1.45
+      }
+    },
+    "Stockport\n- Accrin.Stanley": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Sutton Utd\n- Crawley Town": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Tranmere\n- AFC Wimbledon": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Walsall\n- Bradford City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    }
+  },
+  "ENGLESKA 5. NATIONAL": {
+    "Boreham Wood\n- Ebbsfleet Utd": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Eastleigh FC\n- Halifax Town": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Altrincham FC\n- Oxford City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "Barnet\n- Kidderminster Har.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Chesterfield\n- Maidenhead Utd": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Dorking W.\n- Hartlepool": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "Oldham\n- Wealdstone": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Solihull Moors\n- York City FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Southend\n- Rochdale": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Woking FC\n- AFC Fylde": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Dag & Red\n- Aldershot": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Gateshead FC\n- Bromley FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    }
+  },
+  "ENGLESKA NATIONAL JUG": {
+    "Aveley FC\n- Bath City": {},
+    "Chippenham T.\n- Chelmsford City": {},
+    "Dartford\n- Truro City": {},
+    "Dover Athl.\n- Yeovil Town": {},
+    "Maidstone Utd\n- Hampton&Richm.": {},
+    "Slough Town\n- Welling Utd": {},
+    "Tonbridge Angels\n- St.Albans": {},
+    "Torquay Utd\n- Havant&Waterl.": {},
+    "Weymouth FC\n- Farnborough": {},
+    "Worthing\n- WestonSMare": {}
+  },
+  "ENGLESKA NATIONAL SJEVER": {
+    "Banbury Utd\n- Tamworth": {},
+    "Bishop's Stortf.\n- Curzon Ashton": {},
+    "Blyth Spartans\n- Brackley Town": {},
+    "Chester\n- Darlington": {},
+    "Farsley Celtic\n- Buxton FC": {},
+    "Gloucester City\n- Scunthorpe": {},
+    "Hereford\n- Boston Utd": {},
+    "Peterborough Sports\n- Chorley": {},
+    "Rushall Olympic\n- Warrington Town": {},
+    "Scarborough Ath.\n- Alfreton Town": {},
+    "South Shields\n- Southport": {},
+    "Spennymoor Town\n- King's Lynn FC": {}
+  },
+  "ESTONIJA 1.": {
+    "N\u00f5mme United\n- Tallinna Kalev": {
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Paide Linnam.\n- Tammeka Tartu": {
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "FCI Levadia\n- P\u00e4rnu JK Vaprus": {
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.7,
+        "vi\u0161e": 1.4
+      }
+    }
+  },
+  "FA KUP ENGLESKA": {
+    "Manchester City\n- Chelsea": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 4.2,
+        "22": 17.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.1,
+        "ne": 5.0
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.15,
+        "2": 4.1
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "PROLAZ": {
+        "1": 1.25,
+        "2": 3.5
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.35,
+        "2": 2.7
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    }
+  },
+  "FA KUP \u0160KOTSKA": {
+    "Aberdeen\n- Celtic Glasgow": {
+      "DVOSTRUKA POBJEDA": {
+        "11": 35.0,
+        "22": 2.4
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.15,
+        "ne": 4.1
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 5.3,
+        "2": 1.08
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    }
+  },
+  "FINSKA 1.": {
+    "HJK Helsinki\n- IFK Mariehamn": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "FC Lahti\n- FC Haka Valk.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Vaasa PS\n- IF Gnistan": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "FINSKA 2.": {
+    "TPS Turku\n- MP Mikkeli": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "SJK Akatemia\n- FF Jaro": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "JIPPO Joensuu\n- KTP Kotka": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "J\u00e4PS\n- PK 35 Helsinki": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    }
+  },
+  "FRANCUSKA 1.": {
+    "Nantes\n- St.Rennes": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 8.5,
+        "22": 7.8
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.9,
+        "2": 1.7
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.9,
+        "2": 1.7
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.35,
+        "vi\u0161e": 3.0
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "RC Lens\n- Clermont Foot": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 2.6,
+        "22": 30.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.2,
+        "ne": 3.6
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.1,
+        "2": 5.0
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.25,
+        "2": 3.2
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.45,
+        "vi\u0161e": 2.5
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "FRANCUSKA 2.": {
+    "Rodez Aveyron\n- AJ Auxerre": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Angers\n- Troyes": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Annecy FC\n- Grenoble": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "AC Ajaccio\n- Caen": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL": {
+        "da": 2.3,
+        "ne": 1.55
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.85,
+        "ne": 1.3
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.35,
+        "vi\u0161e": 3.0
+      }
+    },
+    "Amiens SC\n- USL Dunkerque": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "US Concarneau\n- US Quevilly RM": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "EA Guingamp\n- SC Bastia": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.15,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.75,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "Paris FC\n- Valenciennes": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 2.15,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Pau FC\n- Laval": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "Saint Etienne\n- Bordeaux": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    }
+  },
+  "GR\u010cKA 1.": {
+    "OFI Kreta\n- Volos FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Asteras Tripolis\n- Panetolikos": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Atromitos At.\n- AE Kifisia": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "HRVATSKA 2.": {
+    "NK Dubrava Zg.\n- Croatia Zmijavci": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "NK \u0160ibenik\n- NK Solin": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.75,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Vukovar '91\n- Dugopolje": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "HRVATSKA 3.": {
+    "Mladost \u017ddralovi\n- Radnik Kri\u017eevci": {},
+    "Grobni\u010dan\n- Beli\u0161\u0107e": {},
+    "NK Dugo Selo\n- NK Bjelovar": {},
+    "Hrvace\n- NK Kusto\u0161ija": {},
+    "Jadran Luka Plo\u010de\n- Marsonia": {},
+    "NK Krk\n- NK Opatija": {},
+    "NK Trnje\n- H.Dragovoljac": {}
+  },
+  "INDIJA SL PLAY OFF": {
+    "FC Goa\n- Chennaiyin FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    }
+  },
+  "IRSKA 2.": {
+    "Longford Town\n- Cork City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.35,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "ISLAND 1.": {
+    "HK Kopavogur\n- Hafnarfj\u00f6rdur": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.7,
+        "vi\u0161e": 1.4
+      }
+    },
+    "KR Reykjavik\n- Fram": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.7,
+        "vi\u0161e": 1.4
+      }
+    }
+  },
+  "ITALIJA 1.": {
+    "Empoli FC\n- SSC Napoli": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 15.0,
+        "22": 4.5
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.35,
+        "ne": 2.7
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.2,
+        "ne": 3.6
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 3.6,
+        "2": 1.2
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 2.7,
+        "2": 1.35
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.45,
+        "vi\u0161e": 2.5
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Hellas Verona\n- Udinese": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 8.3,
+        "22": 8.4
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.75,
+        "2": 1.85
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.7,
+        "2": 1.9
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.3,
+        "vi\u0161e": 3.2
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    }
+  },
+  "ITALIJA 2.": {
+    "Ascoli\n- Modena FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    },
+    "SSC Bari\n- Pisa 1909": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "Feralpisal\u00f2\n- Como 1907": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Brescia\n- Ternana": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Catanzaro\n- US Cremonese": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Calcio Lecco\n- Venezia FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "AC Spezia\n- UC Sampdoria": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "FC S\u00fcdtirol\n- AS Cittadella": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.2,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.75,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.4,
+        "vi\u0161e": 2.7
+      }
+    }
+  },
+  "IZRAEL 1.": {
+    "Mac.Tel Aviv\n- Hapoel Haifa": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Mac.Netanya\n- Hap.Jerusalem": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Bnei Sakhnin\n- M.Bnei Raina": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "M.Petah Tikva\n- Hap.Tel Aviv": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.35,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "Maccabi Haifa\n- Hap.Beer Sheva": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    }
+  },
+  "JAPAN 1.": {
+    "Con.Sapporo\n- S.Hiroshima": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Kyoto Sanga\n- Albirex Niigata": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Sagan Tosu\n- Kashima Antlers": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "A.Fukuoka\n- Jubilo Iwata": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "Shonan Bellmare\n- Vissel Kobe": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Kawasaki F.\n- Tokyo Verdy": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Urawa Red D.\n- Gamba Osaka": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    }
+  },
+  "JAPAN 2.": {
+    "Fujieda MYFC\n- Tokushima Vortis": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Ventforet Kofu\n- Thesp.Gunma": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Mont.Yamagata\n- Ehime FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Fagiano Okayama\n- Roasso Kumamoto": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Shimizu S Pulse\n- Vegalta Sendai": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    }
+  },
+  "JAR PSL": {
+    "Golden Arrows\n- Royal AM": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "Sekhukhune Utd\n- Cape Town Spurs": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.75,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "Orlando Pirates\n- Amazulu FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.65,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "SuperSport Utd\n- Chippa United": {}
+  },
+  "JU\u017dNA KOREJA 1.": {
+    "Suwon FC\n- Jeju Utd": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Pohang Steelers\n- Gimcheon Sangmu": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "FC Seoul\n- Jeonbuk HM": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    }
+  },
+  "JU\u017dNA KOREJA 2.": {
+    "Bucheon FC 1995\n- Busan I'Park": {
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Seongnam FC\n- Chungbuk Cheongju": {
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    }
+  },
+  "KINA 1.": {
+    "Shandong Taishan\n- Cangzhou ML": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Chengdu Rongcheng\n- Shenzhen Peng City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Wuhan Three T.\n- Changchun Yatai": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Nantong Zhiyun\n- Shanghai Shenhua": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "KOLUMBIJA 1. APERTURA": {
+    "Dep.Pereira\n- Millonarios": {},
+    "Junior Barranq.\n- Once Caldas": {},
+    "Alianza Valledupar\n- Jaguares C\u00f3rdoba": {}
+  },
+  "KOSTARIKA 1. CLAUSURA": {
+    "P\u00e9rez Zeled\u00f3n\n- Mun.Grecia": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "LD Alajuelense\n- Dep.Saprissa": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "LIGA KUP ARGENTINA": {
+    "Argentinos Jun.\n- Defensa y Just.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Estud.La Plata\n- Barracas Central": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "Godoy Cruz\n- Velez Sarsfield": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "OBA DAJU GOL": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.85,
+        "ne": 1.3
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.4,
+        "vi\u0161e": 2.7
+      }
+    }
+  },
+  "LITVA 1.": {
+    "Kauno \u017dalgiris\n- S\u016bduva Marijam.": {},
+    "FA \u0160iauliai\n- Dainava Alytus": {}
+  },
+  "MA\u0110ARSKA 1.": {
+    "Pusk\u00e1s Academy\n- Paksi FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Ferencv\u00e1rosi TC\n- Kisv\u00e1rda FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.35,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "Di\u00f3sgy\u0151r VTK\n- Debreceni VSC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "MEKSIKO 1. CLAUSURA": {
+    "Club Le\u00f3n\n- CF Monterrey": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Guadalajara Chivas\n- Queretaro": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "UANL Tigres\n- Necaxa": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Santos Laguna\n- CF Pachuca": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "UNAM Pumas\n- Club Am\u00e9rica": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    }
+  },
+  "MLS": {
+    "Atlanta Utd\n- FC Cincinnati": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "CF Montreal\n- Orlando City SC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Columbus Crew\n- Portland Timbers": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "Inter Miami\n- Nashville SC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "New York City\n- Washington": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Toronto FC\n- New England Rev.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Chicago Fire\n- Real Salt Lake": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Houston Dynamo\n- Austin FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Sp.Kansas City\n- St.Louis City": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Colorado Rapids\n- FC Dallas": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "FC Los Angeles\n- New York RB": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Seattle Sounders\n- Vancouver Whitec.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    }
+  },
+  "NIZOZEMSKA 2.": {
+    "ADO Den Haag\n- FC Eindhoven": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "MVV Maastricht\n- Willem II Til.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.5,
+        "vi\u0161e": 1.45
+      }
+    },
+    "FC Groningen\n- Cambuur Leeu.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    }
+  },
+  "NJEMA\u010cKA 1.": {
+    "1.FC K\u00f6ln\n- Darmstadt 98": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 3.2,
+        "22": 22.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.15,
+        "ne": 4.1
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.12,
+        "2": 4.4
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.3,
+        "2": 2.9
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "1.FC Heidenheim\n- RB Leipzig": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 25.0,
+        "22": 2.8
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.2,
+        "ne": 3.6
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.1,
+        "ne": 5.0
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 4.4,
+        "2": 1.12
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 3.2,
+        "2": 1.25
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "TSG Hoffenheim\n- B.M'gladbach": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 7.0,
+        "22": 9.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.2,
+        "ne": 3.6
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.1,
+        "ne": 5.0
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.5,
+        "2": 2.3
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.4,
+        "ne": 2.7
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.2,
+        "ne": 1.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.6,
+        "2": 2.1
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "VfL Wolfsburg\n- VfL Bochum": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 4.8,
+        "22": 14.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.15,
+        "ne": 4.1
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.25,
+        "2": 3.2
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.4,
+        "2": 2.5
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Union Berlin\n- Bayern M\u00fcnchen": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 19.0,
+        "22": 3.5
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.1,
+        "ne": 5.0
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 4.1,
+        "2": 1.15
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 2.9,
+        "2": 1.3
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    }
+  },
+  "NJEMA\u010cKA 2.": {
+    "F.D\u00fcsseldorf\n- Greuth.F\u00fcrth": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    },
+    "1.FC K'lautern\n- Wehen Wiesbaden": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "VFL Osnabr\u00fcck\n- E.Braunschweig": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Hamburger SV\n- Holstein Kiel": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.35,
+        "ne": 2.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 3.0,
+        "vi\u0161e": 1.35
+      }
+    }
+  },
+  "NJEMA\u010cKA 3.": {
+    "Erzgeb.Aue\n- Unterhaching": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Hallescher FC\n- SC Verl": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "VFB L\u00fcbeck\n- B.Dortmund II": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "1860 M\u00fcnchen\n- 1.FC Saarbr\u00fccken": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Dynamo Dresden\n- Viktoria K\u00f6ln": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.7,
+        "vi\u0161e": 1.4
+      }
+    },
+    "FC Ingolstadt\n- MSV Duisburg": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    }
+  },
+  "NORVE\u0160KA 2.": {
+    "Ranheim\n- \u00c5sane Fotb.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "OBA DAJU GOL": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.5,
+        "vi\u0161e": 1.45
+      }
+    },
+    "Raufoss IL\n- Bryne FK": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Sogndal IL\n- Moss FK": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Egersund\n- Aalesunds FK": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "Levanger FK\n- Kongsvinger IL": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Start IK\n- Sandnes Ulf": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Lyn Oslo\n- V\u00e5lerenga": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    }
+  },
+  "PARAGVAJ APERTURA": {
+    "Sp.Ameliano\n- Gen.Caballero JLM": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Libertad Asunc.\n- CS Trinidense": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    }
+  },
+  "PERU APERTURA": {
+    "CD Los Chankas\n- Sport Huancayo": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "C.A.Mannucci\n- UTC Cajamarca": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "AD Tarma\n- Cesar Vallejo": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    }
+  },
+  "POLJSKA 1.": {
+    "Pogo\u0144 Szczecin\n- Piast Gliwice": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Ruch Chorz\u00f3w\n- Widzew \u0141\u00f3d\u017a": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Zaglebie Lubin\n- Jagiellonia Bia\u0142.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "POLJSKA 2.": {
+    "GKS Tychy\n- Resovia Rzesz\u00f3w": {
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "G\u00f3rnik \u0141\u0119czna\n- Lechia Gda\u0148sk": {
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Odra Opole\n- Chrobry G\u0142og\u00f3w": {
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    }
+  },
+  "PORTUGAL 1.": {
+    "Moreirense\n- Gil Vicente": {
+      "DVOSTRUKA POBJEDA": {
+        "11": 7.0,
+        "22": 9.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.5,
+        "2": 2.3
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.3,
+        "vi\u0161e": 3.2
+      }
+    },
+    "Boavista Porto\n- Estrela Amadora": {
+      "DVOSTRUKA POBJEDA": {
+        "11": 8.3,
+        "22": 8.4
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.75,
+        "2": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.3,
+        "vi\u0161e": 3.2
+      }
+    },
+    "SC Braga\n- FC Vizela": {
+      "DVOSTRUKA POBJEDA": {
+        "11": 1.85,
+        "22": 45.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.35,
+        "ne": 2.7
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.15,
+        "ne": 4.15
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.03,
+        "2": 8.0
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    }
+  },
+  "PORTUGAL 2.": {
+    "FC Penafiel\n- Pacos Ferreira": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Torreense\n- Uniao Leiria": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.35,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "CD Santa Clara\n- Tondela": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.65,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    }
+  },
+  "RUMUNJSKA 1.": {
+    "Politehnica Iasi\n- FC Voluntari": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.5,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "FC U Craiova 1948\n- Din.Bukure\u0161t": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "FCSB Bukure\u0161t\n- Rapid Bukure\u0161t": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    }
+  },
+  "RUSIJA 1.": {
+    "Rubin Kazan\n- Lok.Moskva": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.45,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "Baltika Kalin.\n- KS Samara": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.55,
+        "vi\u0161e": 2.3
+      }
+    },
+    "CSKA Moskva\n- Akhmat Grozny": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "SAUDIJSKA ARABIJA": {
+    "Al Akhdoud\n- Damac FC": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Al Ettifaq\n- Al Wehda": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Al Hazem\n- Al Ittihad Jed.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    }
+  },
+  "SJEVERNA IRSKA 1.": {
+    "Ballymena Utd\n- Newry City": {
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Carrick Ran.\n- Loughgall": {
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Dungannon\n- Glenavon": {
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "Cliftonville\n- Glentoran": {
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Coleraine\n- Crusaders": {
+      "OBA DAJU GOL": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    }
+  },
+  "SLOVA\u010cKA 1.": {
+    "\u017deleziarne Podb.\n- M\u0160K \u017dilina": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    },
+    "DAC Dun.Streda\n- MFK Ru\u017eomberok": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "ViOn Zl.Moravce\n- Dukla B.Bystrica": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Zempl\u00edn Michal.\n- MFK Skalica": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    }
+  },
+  "SLOVENIJA 1.": {
+    "NK Radomlje\n- N\u0160 Mura": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "NK Ol.Ljubljana\n- NK Aluminij Kidr.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    }
+  },
+  "\u0160KOTSKA 2.": {
+    "Arbroath\n- Gr.Morton": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Dundee Utd\n- Ayr Utd": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "Dunfermline\n- Queen`s Park": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Partick Thistle\n- Airdrieonians": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    }
+  },
+  "\u0160KOTSKA 3.": {
+    "FC Edinburgh\n- Annan Athletic": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.35,
+        "ne": 2.7
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.5,
+        "vi\u0161e": 1.45
+      }
+    },
+    "Falkirk\n- Kelty Hearts": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 3.0,
+        "vi\u0161e": 1.35
+      }
+    },
+    "Montrose FC\n- Hamilton Accies": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "Stirling Albion\n- Queen of South": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Cove Rangers\n- Alloa Athletic": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    }
+  },
+  "\u0160KOTSKA 4.": {
+    "Bonnyrigg Rose\n- Spartans Edin.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.15,
+        "ne": 1.55
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Clyde\n- Stenhousemuir": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Elgin City\n- Peterhead": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Forfar Athletic\n- East Fife": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Stranraer\n- Dumbarton": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.6,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    }
+  },
+  "\u0160PANJOLSKA 1.": {
+    "Celta Vigo\n- UD Las Palmas": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 5.4,
+        "22": 11.5
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.2,
+        "ne": 3.6
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.3,
+        "2": 2.9
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.35,
+        "ne": 1.45
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.5,
+        "2": 2.3
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.35,
+        "vi\u0161e": 3.0
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Rayo Vallecano\n- CA Osasuna": {
+      "CRVENI KARTON": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 7.5,
+        "22": 8.8
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.55,
+        "2": 2.2
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.65,
+        "ne": 1.35
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.6,
+        "2": 2.1
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.25,
+        "vi\u0161e": 3.5
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "CF Valencia\n- Betis Sevilla": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 7.5,
+        "22": 8.8
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.55,
+        "2": 2.2
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 5.0,
+        "ne": 1.1
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.6,
+        "2": 2.1
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.25,
+        "vi\u0161e": 3.5
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Girona FC\n- C\u00e1diz CF": {
+      "CRVENI KARTON": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "DVOSTRUKA POBJEDA": {
+        "11": 2.6,
+        "22": 30.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.35,
+        "ne": 2.7
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.15,
+        "ne": 4.1
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.1,
+        "2": 5.0
+      },
+      "KAZNENI UDARAC": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "POL. S VI\u0160E GOLOVA": {
+        "prvo": 2.2,
+        "drugo": 1.55
+      },
+      "TKO DA PRVI GOL": {
+        "1": 1.25,
+        "2": 3.2
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      },
+      "ZBROJ KORNERA": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      },
+      "ZBROJ \u017dUTIH KARTONA": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "\u0160PANJOLSKA 2.": {
+    "SD Amorebieta\n- Valladolid": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    },
+    "Rac.Santander\n- Levante UD": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "CF Villarreal B\n- Racing Ferrol": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Elche CF\n- Sport.Gij\u00f3n": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.4,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "SD Huesca\n- R.Zaragoza": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "OBA DAJU GOL": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.85,
+        "ne": 1.3
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.3,
+        "vi\u0161e": 3.2
+      }
+    }
+  },
+  "\u0160VEDSKA 1.": {
+    "IFK G\u00f6teborg\n- IFK Norrk\u00f6ping": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "IK Sirius\n- IFK V\u00e4rnamo": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.0,
+        "vi\u0161e": 1.7
+      }
+    },
+    "Malm\u00f6 FF\n- V\u00e4steras SK": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "OBA DAJU GOL": {
+        "da": 2.05,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.3,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.4,
+        "vi\u0161e": 1.5
+      }
+    }
+  },
+  "\u0160VEDSKA 2.": {
+    "Sandvikens\n- \u00d6sters IF": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.05,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Sk\u00f6vde AIK\n- Trelleborgs FF": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "\u00d6stersunds FK\n- \u00d6rgryte IS": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    },
+    "Utsiktens BK\n- GIF Sundsvall": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    }
+  },
+  "\u0160VICARSKA 1.": {
+    "Servette FC\n- Grasshoppers": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL": {
+        "da": 1.7,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "Yverdon\n- Lausanne Ouchy": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.2,
+        "vi\u0161e": 1.6
+      }
+    },
+    "FC Lugano\n- FC Lausanne": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    }
+  },
+  "\u0160VICARSKA 2.": {
+    "FC Vaduz\n- FC Wil 1900": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.4
+      },
+      "OBA DAJU GOL": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.7,
+        "ne": 1.9
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.3,
+        "vi\u0161e": 1.55
+      }
+    }
+  },
+  "TAJLAND 1.": {
+    "BG Pathum Utd\n- Chonburi FC": {},
+    "Police Tero FC\n- Uthai Thani": {},
+    "Khon Kaen Utd\n- Trat FC": {},
+    "Ratchaburi MP\n- Buriram Utd": {}
+  },
+  "TURSKA 1.": {
+    "Istanbulspor\n- F.Karag\u00fcmr\u00fck SK": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.9,
+        "vi\u0161e": 1.8
+      }
+    },
+    "Konyaspor\n- Alanyaspor": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.25,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.75,
+        "vi\u0161e": 1.95
+      }
+    },
+    "Kayserispor\n- Trabzonspor": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.45,
+        "ne": 2.35
+      },
+      "OBA DAJU GOL": {
+        "da": 1.55,
+        "ne": 2.3
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.1,
+        "vi\u0161e": 1.65
+      }
+    },
+    "Samsunspor\n- Adana Demirspor": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.65,
+        "ne": 2.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.95
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.8,
+        "vi\u0161e": 1.9
+      }
+    }
+  },
+  "TURSKA 2.": {
+    "Bandirmaspor\n- Tuzlaspor": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.55,
+        "ne": 2.2
+      },
+      "OBA DAJU GOL": {
+        "da": 1.8,
+        "ne": 1.8
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.95,
+        "vi\u0161e": 1.75
+      }
+    },
+    "Giresunspor\n- G\u00f6ztepe A\u015e": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "OBA DAJU GOL": {
+        "da": 2.75,
+        "ne": 1.35
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 3.0,
+        "ne": 1.3
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.7,
+        "vi\u0161e": 1.4
+      }
+    },
+    "Ey\u00fcpspor\n- Boluspor": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    }
+  },
+  "UAE": {
+    "Hatta Club\n- Emirates Club": {
+      "OBA DAJU GOL": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.55,
+        "ne": 2.15
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 3.2,
+        "vi\u0161e": 1.3
+      }
+    },
+    "Al Wahda Abu Dh.\n- Ajman Club": {
+      "OBA DAJU GOL": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 2.7,
+        "vi\u0161e": 1.4
+      }
+    }
+  },
+  "UKRAJINA 1.": {
+    "Chernom.Odesa\n- Krivbas Krivoj R.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.35,
+        "ne": 1.45
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.7,
+        "vi\u0161e": 2.0
+      }
+    },
+    "Vorskla Poltava\n- Kolos Kov.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL": {
+        "da": 2.1,
+        "ne": 1.6
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.7,
+        "ne": 1.35
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.4,
+        "vi\u0161e": 2.7
+      }
+    }
+  },
+  "URUGVAJ 1. APERTURA": {
+    "Danubio FC\n- Cerro Largo": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    },
+    "Boston River\n- Penarol Mon.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.85,
+        "ne": 1.75
+      },
+      "OBA DAJU GOL": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.6,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    },
+    "Nacional Mon.\n- Rampla Juniors": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.6,
+        "ne": 2.05
+      },
+      "OBA DAJU GOL": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.85,
+        "vi\u0161e": 1.85
+      }
+    },
+    "Dep.Maldonado\n- Miramar Mis.": {
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.9,
+        "ne": 1.7
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.55,
+        "ne": 1.4
+      },
+      "ZBROJ GOLOVA 1/2": {
+        "manje": 1.65,
+        "vi\u0161e": 2.1
+      }
+    }
+  },
+  "\u017dENE ENGLESKA SUPERLIGA": {
+    "Bristol C.WFC\n- Liverpool LFC": {}
+  },
+  "\u017dENE LIGA PRVAKA": {
+    "FC Barcelona\n- Chelsea LFC": {
+      "DVOSTRUKA POBJEDA": {
+        "11": 1.65,
+        "22": 50.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.25,
+        "ne": 3.2
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.1,
+        "ne": 4.95
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.4,
+        "ne": 2.5
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.02,
+        "2": 9.0
+      },
+      "OBA DAJU GOL": {
+        "da": 1.95,
+        "ne": 1.65
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 4.1,
+        "ne": 1.15
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.2,
+        "ne": 1.5
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.6,
+        "vi\u0161e": 2.2
+      }
+    },
+    "Olymp.Lyonnais\n- Paris SG": {
+      "DVOSTRUKA POBJEDA": {
+        "11": 3.5,
+        "22": 20.0
+      },
+      "GOL U 1. POLUVREMENU": {
+        "da": 1.3,
+        "ne": 2.9
+      },
+      "GOL U 2. POLUVREMENU": {
+        "da": 1.15,
+        "ne": 4.1
+      },
+      "GOL U OBA POLUVREMENA": {
+        "da": 1.5,
+        "ne": 2.25
+      },
+      "ISHOD BEZ NERIJE\u0160ENOG": {
+        "1": 1.15,
+        "2": 4.1
+      },
+      "OBA DAJU GOL": {
+        "da": 1.75,
+        "ne": 1.85
+      },
+      "OBA DAJU GOL 1.POL.": {
+        "da": 3.6,
+        "ne": 1.2
+      },
+      "OBA DAJU GOL I 3+": {
+        "da": 2.0,
+        "ne": 1.65
+      },
+      "ZBROJ GOLOVA 1.POL.": {
+        "manje": 1.5,
+        "vi\u0161e": 2.4
+      }
+    }
+  }
+}
